@@ -1,7 +1,6 @@
-## Hi there 👋
+## Sobre mi:
 
-<!--
-**Rochazoso/Rochazoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado de la Tecnología y disfrutando de una transición laboral a Data Scientist
 
 🔍 Explorando datos para tomar mejores decisiones.
 
