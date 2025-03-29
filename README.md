@@ -8,4 +8,5 @@ Apasionado de la Tecnología y disfrutando de una transición laboral a Data Sci
 
 🎓 Máster en Ciencia de Datos | Bootcamp en Data Science
 
-https://img.shields.io/github/stars/:user/:repo
+![GitHub Repo stars](https://img.shields.io/github/stars/:user/:repo)
+
