@@ -8,5 +8,5 @@ Apasionado de la Tecnología y disfrutando de una transición laboral a Data Sci
 
 🎓 Máster en Ciencia de Datos | Bootcamp en Data Science
 
-![GitHub Repo stars](https://img.shields.io/github/stars/:user/:repo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](http://linkedin.com/in/rodrigo-rocha-reza-00442115b)
 
