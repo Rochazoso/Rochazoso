@@ -13,6 +13,13 @@ Apasionado de la Tecnología y disfrutando de una transición laboral a Data Sci
 🔸 Profundizando en SQL para análisis de datos avanzados.  
 🔸 Trabajando en un modelo de predicción de [aquí pones tu proyecto].  
 
+## Proyectos en Tripleten:
+
+- Desarrollé un modelo de análisis para identificar patrones que determinan el éxito de un videojuego basado en datos históricos de ventas, género, plataforma y clasificaciones ESRB.
+- Implementé un modelo de Machine Learning para predecir la deserción de clientes en una entidad bancaria, optimizando la retención y reduciendo costos de adquisición. 
+- Creé un modelo de clasificación para predecir la cancelación de clientes en una empresa de telecomunicaciones, ayudando a implementar estrategias de fidelización. 
+
+
 ## Tecnologías:
 ![Python](https://img.shields.io/badge/Python-NumPy%20%7C%20Pandas-3776AB?style=flat&logo=python&logoColor=white)
 
